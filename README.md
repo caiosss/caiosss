@@ -8,7 +8,6 @@ em constante desenvolvimento profissional.
 
 - 🌱 Atualmente estou aprendendo: Javascript, Java, HTML, CSS e Rust.
 - 🔭 No momento busco oportunidades de Estágio para ter experiência e me desenvolver profissionalmente.
-- 📫 Contato: caiobarros1712@gmail.com
 - ⚡ Fato divertido: não vivo sem café! Pois, qual é o programador que vive sem café?😅
 
 ## 👨‍💻 Estou estudando
@@ -35,3 +34,6 @@ em constante desenvolvimento profissional.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiosss&theme=synthwave)
   
 </div>
+
+## 📩 Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-barros-102137287/)
