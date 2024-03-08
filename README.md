@@ -26,3 +26,12 @@ em constante desenvolvimento profissional.
 
 ## ⭐ Tecnologias que tive contato ⭐
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 Status
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiosss&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiosss&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiosss&theme=synthwave)
+  
+</div>
