@@ -1,6 +1,6 @@
 ## Olá👋
 
-### Quem sou eu?🤔
+### 🤔 Quem sou eu? 
 Meu nome é Caio Barros e sou estudante de Ciências da Computação na Universidade
 de Fortaleza - UNIFOR. Gosto de desenvolvimento front-end e back-end e de criar projetos.
 Busco sempre melhorar minhas habilidades seja em programação ou qualquer outra área, pois estou
@@ -11,17 +11,18 @@ em constante desenvolvimento profissional.
 - 📫 Contato: caiobarros1712@gmail.com
 - ⚡ Fato divertido: não vivo sem café! Pois, qual é o programador que vive sem café?😅
 
-<!--
-**caiosss/caiosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Estou estudando
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1350FE?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🌟 Trabalho com 🌟
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1350FE?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Tecnologias que tive contato ⭐
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
