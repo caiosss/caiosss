@@ -1,4 +1,4 @@
-## Olá👋
+![Imagem de boas vindas!](./Banner.gif)
 
 ### 🤔 Quem sou eu? 
 Meu nome é Caio Barros e sou estudante de Ciências da Computação na Universidade
@@ -8,6 +8,7 @@ em constante desenvolvimento profissional.
 
 - 🌱 Atualmente estou aprendendo: Javascript, Java, HTML, CSS e Rust.
 - 🔭 No momento busco oportunidades de Estágio para ter experiência e me desenvolver profissionalmente.
+- 📫 Contato: caiobarros1712@gmail.com
 - ⚡ Fato divertido: não vivo sem café! Pois, qual é o programador que vive sem café?😅
 
 ## 👨‍💻 Estou estudando
