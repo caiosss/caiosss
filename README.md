@@ -13,8 +13,8 @@ em constante desenvolvimento profissional.
 
 ## 👨‍💻 Estou estudando
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1350FE?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-1350FE?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
+![Spring Boot](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=SpringBoot&logoColor=green)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,8 +26,8 @@ em constante desenvolvimento profissional.
 ![Nodejs](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=nodejs&logoColor=green)
 ## 🌟 Trabalho com 🌟
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1350FE?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Java-1350FE?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
+![Spring Boot](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=SpringBoot&logoColor=green)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
